@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "female",
+  "voiceAnchored": true,
+  "duration": 37.9081179138322,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Elena, Sarah here. Let us talk about your property enquiry."
+    },
+    {
+      "speaker": "customer",
+      "text": "I need a flexible sale date, but I am not accepting an offer blindly."
+    },
+    {
+      "speaker": "agent",
+      "text": "That makes sense. A review should consider the property condition, comparable sales, and your preferred timeline, with a written explanation of the proposed terms."
+    },
+    {
+      "speaker": "customer",
+      "text": "Will I have to decide during the appointment?"
+    },
+    {
+      "speaker": "agent",
+      "text": "No. The appointment is to gather information and explain the process. You should have time to review the offer and seek advice before making a commitment."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Elena. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " High lane assera here, let us talk about your property inquiry. I need a flexible sale date, but I am not accepting it offer blindly. That makes sense. A review should consider the property condition, comparable sales, and your preferred timeline, with a written explanation of the proposed terms. Will I have to decide during the appointment? No. The appointment is to gather information and explain the process. You should have time to review the offer and  advice before making a commitment. That is helpful. Could we review the details tomorrow afternoon? Certainly, Elena. In this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.9506726457399103,
+  "transcriptChecked": true,
+  "needsReview": false
+}

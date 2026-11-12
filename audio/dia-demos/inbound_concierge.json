@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "female",
+  "voiceAnchored": true,
+  "duration": 36.00408163265306,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Sophia, Sarah here. Let us talk about your support routing."
+    },
+    {
+      "speaker": "customer",
+      "text": "Customers keep repeating their issue when we transfer them between departments."
+    },
+    {
+      "speaker": "agent",
+      "text": "We can collect the issue and account context first, then pass that summary to the right team. Urgent cases should have a clear escalation path."
+    },
+    {
+      "speaker": "customer",
+      "text": "What happens when the assistant cannot answer?"
+    },
+    {
+      "speaker": "agent",
+      "text": "It should say so and offer a human handoff. We should agree the escalation rules with your support team, instead of letting it improvise technical answers."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Sophia. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi, Sophia Sarah here. Let us talk about your support routing. Customers keep repeating their issue when we transfer them between department. We can collect the issue in account context first, then pass that summary to the right team. Urgent cases should have a clear escalation path. What happens when the assistant cannot answer? It should say so and offer a human handoff. We should agree the escalation rules with your support team instead of letting it improvise technical answers.  That is helpful. Could we review the details tomorrow afternoon? Certainly Sophia, in this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.981651376146789,
+  "transcriptChecked": true,
+  "needsReview": false
+}

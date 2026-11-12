@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "male",
+  "voiceAnchored": true,
+  "duration": 37.971111111111114,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi David, Sarah here. Let us talk about your sales follow-up."
+    },
+    {
+      "speaker": "customer",
+      "text": "Our forty reps lose hours to unanswered calls and manual CRM updates."
+    },
+    {
+      "speaker": "agent",
+      "text": "We can separate unanswered calls from conversations and capture outcomes in your CRM. Which matters more: getting through or keeping follow-up organised?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Both. But I do not want to replace every tool we use."
+    },
+    {
+      "speaker": "agent",
+      "text": "Then the demo should start with your current workflow. We will show where automation fits and which integrations need checking, rather than promise a complete replacement."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, David. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi David Sarah here. Let us talk about your sales follow-up. We can separate  Unanswered calls from conversations and capture outcomes in your CRM, which matters more, getting through or keeping follow-up organized. Both. But I do not want to replace every tool we use. Then the demo should start with your current workflow. We will show where automation fits and which integrations need checking, rather than promise a complete replacement. That is helpful. Could we review the details tomorrow after  Certainly David, in this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.9259259259259259,
+  "transcriptChecked": true,
+  "needsReview": false
+}

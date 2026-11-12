@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "male",
+  "voiceAnchored": true,
+  "duration": 38.00596371882086,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Marcus, Sarah here. Let us talk about your warehouse solar enquiry."
+    },
+    {
+      "speaker": "customer",
+      "text": "Our electricity bill is rising, but the roof and financing worry me."
+    },
+    {
+      "speaker": "agent",
+      "text": "An assessment should look at roof condition, consumption, and operating hours before discussing system size. Then you can compare installation costs with an estimated savings range."
+    },
+    {
+      "speaker": "customer",
+      "text": "Are you assuming we qualify for rebates?"
+    },
+    {
+      "speaker": "agent",
+      "text": "No. Incentives depend on your location and eligibility. The specialist should verify those separately and show the numbers with and without them."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Marcus. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi, Marcus, Sarah here. Let us talk about your warehouse solar inquiry. An assessment should look at  roof condition, consumption, and operating hours before discussing system size. Then you can compare installation costs with an estimated savings range. Are you assuming we qualify for rebates? No, incentives depend on your location and eligibility. The specialists should verify those separately and show the numbers within without them. That is helpful. Could we review the details tomorrow afternoon?  Certainly, Marcus, in this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.9064039408866995,
+  "transcriptChecked": true,
+  "needsReview": false
+}

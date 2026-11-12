@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "male",
+  "voiceAnchored": true,
+  "duration": 43.75954648526077,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Mateo, Sarah here. Let us talk about your payment processing review."
+    },
+    {
+      "speaker": "customer",
+      "text": "Our statement has so many fees that I cannot tell what we are paying for."
+    },
+    {
+      "speaker": "agent",
+      "text": "We can separate interchange, network charges, and processor markup, then compare the effective rate against transaction mix. That makes the review more useful than a headline rate."
+    },
+    {
+      "speaker": "customer",
+      "text": "So you cannot promise savings before seeing the statement?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Exactly. We should check the figures first, including monthly fees and contract terms. Then you can judge a comparison based on the whole cost."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Mateo. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi Mateo, Sarah here. Let us talk about your payment processing review. Our statement has so many fees that I cannot tell what we are paying for. We can separate interchange, network charges, and processor markup, then compare the effective rate against transaction mix. That makes the review more useful than a headline rate. So you cannot promise savings before seeing the statement? Exactly. We should check the figure  first, including monthly fees and contract terms, then you can judge a comparison based on the whole cost. That is helpful. Could we review the details tomorrow afternoon? Certainly Mateo. In this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.9913793103448276,
+  "transcriptChecked": true,
+  "needsReview": false
+}

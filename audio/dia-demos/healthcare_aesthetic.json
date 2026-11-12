@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "female",
+  "voiceAnchored": true,
+  "duration": 34.29517006802721,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Chloe, Sarah here. Let us talk about your dental consultation."
+    },
+    {
+      "speaker": "customer",
+      "text": "I am interested in implants, but I am nervous about recovery and cost."
+    },
+    {
+      "speaker": "agent",
+      "text": "The clinician can explain suitability, treatment stages, recovery expectations, and pricing after assessing you. I can help arrange that consultation and note your questions."
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you tell me whether I am a suitable candidate?"
+    },
+    {
+      "speaker": "agent",
+      "text": "That needs a clinical assessment. I would not want to guess. We can make sure the clinician knows your concerns before you arrive."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Chloe. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi, Chloe Sarah here. Let us talk about your dental consultation. I am interested in implants, but I am nervous about recovery and cost. The clinician can explain suitability, treatment stages, recovery expectations, and pricing after assessing you. I can help arrange that consultation and note your questions.  That needs a clinical assessment. I would not want to guess. We can make sure the clinician knows your concerns before you arrive.  Certainly, Chloe, in this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.9,
+  "transcriptChecked": true,
+  "needsReview": false
+}

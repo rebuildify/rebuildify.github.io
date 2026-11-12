@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "male",
+  "voiceAnchored": true,
+  "duration": 42.269886621315194,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Harrison, Sarah here. Let us talk about your charter itinerary."
+    },
+    {
+      "speaker": "customer",
+      "text": "Four passengers from Denver to Miami on Friday, with a possible Sunday return."
+    },
+    {
+      "speaker": "agent",
+      "text": "We should confirm preferred departure times, luggage, and airport choices before asking the charter specialist to compare aircraft availability and itinerary options."
+    },
+    {
+      "speaker": "customer",
+      "text": "Can you confirm the aircraft immediately?"
+    },
+    {
+      "speaker": "agent",
+      "text": "The specialist needs to check availability and operational details first. We can request options with pricing and cancellation terms clearly stated before you commit."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Harrison. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi Harrison Sarah here. Let us talk about your charter itinerary. Four passengers from Denver to Miami on Friday with a possible Sunday return. We should confirm  referred to portrait times, luggage and airport choices before asking the charter specialist to compare aircraft availability and itinerary options. Can you confirm the aircraft immediately? The specialist needs to check availability and operational details first. We can request options with pricing and cancellation terms clearly stated before you commit. That is helpful. Could we review the details tomorrow afternoon? Certainly Harrison.  In this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.976303317535545,
+  "transcriptChecked": true,
+  "needsReview": false
+}

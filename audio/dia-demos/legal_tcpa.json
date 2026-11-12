@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "male",
+  "voiceAnchored": true,
+  "duration": 43.36480725623583,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Arthur, Sarah here. Let us talk about your unwanted-call enquiry."
+    },
+    {
+      "speaker": "customer",
+      "text": "We have call records, but I do not know whether there is a legal case."
+    },
+    {
+      "speaker": "agent",
+      "text": "The legal team can review the records, consent history, and circumstances. I can gather a summary and arrange an initial consultation, without making a legal determination."
+    },
+    {
+      "speaker": "customer",
+      "text": "What should I prepare?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Dates, caller details, any consent or opt-out records, and relevant correspondence. Keep the originals so the legal team can assess the evidence and explain your options."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Arthur. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi Arthur Sarah here. Let us talk about your unwanted call inquiry. We have call records, but I do not know whether there is a legal case. The legal team can review the records, consent history, and circumstances. I can gather a summary and arrange an initial consultation without making illegal determination. What should I prepare? Dates, caller details, any consent or opt-out records, and relevant  correspondence keep the originals so the legal team can assess the evidence and explain your options. That is helpful. Could we review the details tomorrow afternoon? Certainly Arthur. In this demo we would capture those notes and request a suitable appointment. Perfect. Thank you Sarah.",
+  "transcriptMatch": 0.9777777777777777,
+  "transcriptChecked": true,
+  "needsReview": false
+}

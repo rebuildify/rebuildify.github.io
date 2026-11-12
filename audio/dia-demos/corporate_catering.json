@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "female",
+  "voiceAnchored": true,
+  "duration": 44.404421768707486,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Maya, Sarah here. Let us talk about your team event."
+    },
+    {
+      "speaker": "customer",
+      "text": "Sixty guests, mixed dietary needs, and our vegetarians deserve more than lettuce. (laughs)"
+    },
+    {
+      "speaker": "agent",
+      "text": "Absolutely. We should plan proper vegetarian choices, collect allergy requirements, and confirm delivery, setup, and service timing. Is this a seated meal or a buffet?"
+    },
+    {
+      "speaker": "customer",
+      "text": "A buffet. I also need the costs clearly broken down."
+    },
+    {
+      "speaker": "agent",
+      "text": "We will ask for a proposal separating food, service, equipment, and any delivery charges. Allergy handling should be confirmed with the caterer, rather than assumed."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, Maya. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi, Maya Serrier. Let us talk about your team event. 60 guests, mixed dietary needs, and our vegetarians deserve more than lettuce. Absolutely.  We should plan proper vegetarian choices, collect allergy requirements and confirm delivery, setup and service timing. Is this a seated meal or a buffet? A buffet. I also need the costs clearly broken down. We will ask for a proposal separating food, service equipment, and any delivery charges. Allergy handling should be confirmed with the caterer rather than assumed. That is helpful. Could we review the  details tomorrow afternoon? Certainly Maya, in this demo, we would capture those notes and request a suitable appointment. Perfect. Thank you, Sarah.",
+  "transcriptMatch": 0.9819819819819819,
+  "transcriptChecked": true,
+  "needsReview": false
+}

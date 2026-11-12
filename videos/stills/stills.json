@@ -1,0 +1,245 @@
+{
+    "stills":  [
+                   {
+                       "t":  0,
+                       "view":  "portrait",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-portrait-blur-soft-0_00.webp",
+                       "avif":  "hero-portrait-blur-soft-0_00.avif",
+                       "webpKB":  8.9,
+                       "avifKB":  2.5
+                   },
+                   {
+                       "t":  0,
+                       "view":  "desktop",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-desktop-blur-soft-0_00.webp",
+                       "avif":  "hero-desktop-blur-soft-0_00.avif",
+                       "webpKB":  6.1,
+                       "avifKB":  1.8
+                   },
+                   {
+                       "t":  0,
+                       "view":  "portrait",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-portrait-blur-strong-0_00.webp",
+                       "avif":  "hero-portrait-blur-strong-0_00.avif",
+                       "webpKB":  6.1,
+                       "avifKB":  1.7
+                   },
+                   {
+                       "t":  0,
+                       "view":  "desktop",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-desktop-blur-strong-0_00.webp",
+                       "avif":  "hero-desktop-blur-strong-0_00.avif",
+                       "webpKB":  4.8,
+                       "avifKB":  1.3
+                   },
+                   {
+                       "t":  2,
+                       "view":  "portrait",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-portrait-blur-soft-2_00.webp",
+                       "avif":  "hero-portrait-blur-soft-2_00.avif",
+                       "webpKB":  10.5,
+                       "avifKB":  3
+                   },
+                   {
+                       "t":  2,
+                       "view":  "desktop",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-desktop-blur-soft-2_00.webp",
+                       "avif":  "hero-desktop-blur-soft-2_00.avif",
+                       "webpKB":  6.7,
+                       "avifKB":  2
+                   },
+                   {
+                       "t":  2,
+                       "view":  "portrait",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-portrait-blur-strong-2_00.webp",
+                       "avif":  "hero-portrait-blur-strong-2_00.avif",
+                       "webpKB":  6.9,
+                       "avifKB":  2
+                   },
+                   {
+                       "t":  2,
+                       "view":  "desktop",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-desktop-blur-strong-2_00.webp",
+                       "avif":  "hero-desktop-blur-strong-2_00.avif",
+                       "webpKB":  5.1,
+                       "avifKB":  1.5
+                   },
+                   {
+                       "t":  4,
+                       "view":  "portrait",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-portrait-blur-soft-4_00.webp",
+                       "avif":  "hero-portrait-blur-soft-4_00.avif",
+                       "webpKB":  8.2,
+                       "avifKB":  2.4
+                   },
+                   {
+                       "t":  4,
+                       "view":  "desktop",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-desktop-blur-soft-4_00.webp",
+                       "avif":  "hero-desktop-blur-soft-4_00.avif",
+                       "webpKB":  5.8,
+                       "avifKB":  1.7
+                   },
+                   {
+                       "t":  4,
+                       "view":  "portrait",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-portrait-blur-strong-4_00.webp",
+                       "avif":  "hero-portrait-blur-strong-4_00.avif",
+                       "webpKB":  5.5,
+                       "avifKB":  1.6
+                   },
+                   {
+                       "t":  4,
+                       "view":  "desktop",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-desktop-blur-strong-4_00.webp",
+                       "avif":  "hero-desktop-blur-strong-4_00.avif",
+                       "webpKB":  4.4,
+                       "avifKB":  1.3
+                   },
+                   {
+                       "t":  6,
+                       "view":  "portrait",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-portrait-blur-soft-6_00.webp",
+                       "avif":  "hero-portrait-blur-soft-6_00.avif",
+                       "webpKB":  9.3,
+                       "avifKB":  2.7
+                   },
+                   {
+                       "t":  6,
+                       "view":  "desktop",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-desktop-blur-soft-6_00.webp",
+                       "avif":  "hero-desktop-blur-soft-6_00.avif",
+                       "webpKB":  7.6,
+                       "avifKB":  2.2
+                   },
+                   {
+                       "t":  6,
+                       "view":  "portrait",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-portrait-blur-strong-6_00.webp",
+                       "avif":  "hero-portrait-blur-strong-6_00.avif",
+                       "webpKB":  6.2,
+                       "avifKB":  1.8
+                   },
+                   {
+                       "t":  6,
+                       "view":  "desktop",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-desktop-blur-strong-6_00.webp",
+                       "avif":  "hero-desktop-blur-strong-6_00.avif",
+                       "webpKB":  5.6,
+                       "avifKB":  1.6
+                   },
+                   {
+                       "t":  8,
+                       "view":  "portrait",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-portrait-blur-soft-8_00.webp",
+                       "avif":  "hero-portrait-blur-soft-8_00.avif",
+                       "webpKB":  9.8,
+                       "avifKB":  2.8
+                   },
+                   {
+                       "t":  8,
+                       "view":  "desktop",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-desktop-blur-soft-8_00.webp",
+                       "avif":  "hero-desktop-blur-soft-8_00.avif",
+                       "webpKB":  6.4,
+                       "avifKB":  1.9
+                   },
+                   {
+                       "t":  8,
+                       "view":  "portrait",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-portrait-blur-strong-8_00.webp",
+                       "avif":  "hero-portrait-blur-strong-8_00.avif",
+                       "webpKB":  6.2,
+                       "avifKB":  1.7
+                   },
+                   {
+                       "t":  8,
+                       "view":  "desktop",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-desktop-blur-strong-8_00.webp",
+                       "avif":  "hero-desktop-blur-strong-8_00.avif",
+                       "webpKB":  4.5,
+                       "avifKB":  1.3
+                   },
+                   {
+                       "t":  9.79,
+                       "view":  "portrait",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-portrait-blur-soft-9_79.webp",
+                       "avif":  "hero-portrait-blur-soft-9_79.avif",
+                       "webpKB":  9.2,
+                       "avifKB":  2.7
+                   },
+                   {
+                       "t":  9.79,
+                       "view":  "desktop",
+                       "strength":  "soft",
+                       "sigmaPx":  10,
+                       "webp":  "hero-desktop-blur-soft-9_79.webp",
+                       "avif":  "hero-desktop-blur-soft-9_79.avif",
+                       "webpKB":  6,
+                       "avifKB":  1.8
+                   },
+                   {
+                       "t":  9.79,
+                       "view":  "portrait",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-portrait-blur-strong-9_79.webp",
+                       "avif":  "hero-portrait-blur-strong-9_79.avif",
+                       "webpKB":  6.2,
+                       "avifKB":  1.8
+                   },
+                   {
+                       "t":  9.79,
+                       "view":  "desktop",
+                       "strength":  "strong",
+                       "sigmaPx":  22,
+                       "webp":  "hero-desktop-blur-strong-9_79.webp",
+                       "avif":  "hero-desktop-blur-strong-9_79.avif",
+                       "webpKB":  4.4,
+                       "avifKB":  1.3
+                   }
+               ],
+    "note":  "Cross-fade (opacity only, ~180 ms ease-out) from the playing film to the still nearest the current film time on the first scroll pixel; back to the film at scroll 0. t = seconds into the 9.88 s film (24 fps). Portrait stills use the same panning crop as the portrait video."
+}

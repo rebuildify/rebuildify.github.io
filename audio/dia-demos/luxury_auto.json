@@ -1,0 +1,45 @@
+{
+  "engine": "Dia-1.6B-0626",
+  "agentGender": "female",
+  "customerGender": "male",
+  "voiceAnchored": true,
+  "duration": 39.09739229024943,
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi James, Sarah here. Let us talk about your private test drive."
+    },
+    {
+      "speaker": "customer",
+      "text": "I want to compare the handling and comfort, without a rushed showroom visit."
+    },
+    {
+      "speaker": "agent",
+      "text": "We can arrange a quieter appointment and a route that lets you assess both. Would you also like to compare the interior and driver assistance options?"
+    },
+    {
+      "speaker": "customer",
+      "text": "Yes. But please do not tell me every option is essential. (laughs)"
+    },
+    {
+      "speaker": "agent",
+      "text": "Fair enough. We will focus on what you actually use, explain the differences, and confirm which specification is available before the appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "That is helpful. Could we review the details tomorrow afternoon?"
+    },
+    {
+      "speaker": "agent",
+      "text": "Certainly, James. In this demo, we would capture those notes and request a suitable appointment."
+    },
+    {
+      "speaker": "customer",
+      "text": "Perfect. Thank you, Sarah."
+    }
+  ],
+  "transcript": " Hi James Sarah here. Let us talk about your private test drive. I want to compare the handling and comfort without a rushed showroom visit. We can arrange a quieter appointment and a route that lets you assess both. Would you also like to compare the interior and driver assistance options? Yes, but please do not tell me every option is essential. Fair enough. We will focus on what you actually use  explain the differences and confirm which specification is available before the appointment. That is helpful. Certainly James, in this demo we would capture those notes and request a  suitable appointment. Perfect. Thank you.",
+  "transcriptMatch": 0.963302752293578,
+  "transcriptChecked": true,
+  "needsReview": false
+}
